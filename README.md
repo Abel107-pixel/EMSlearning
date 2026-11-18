@@ -36,3 +36,11 @@ XP, Level, Antworten, Lernzeit und Lernserie werden im LocalStorage des jeweilig
 ## Hinweis zur Lernserie
 
 Ein Tag zählt nur bei echter Lernaktivität. Tage ohne aktive, gültige Lerninhalte unterbrechen die Serie nicht. Der Prototyp erfasst Lernzeit während einer aktiven Lernsession.
+
+## Version 2.0 – Orange Edition
+
+- Warm orange visual theme and original pixel companion character **Pico**. Pico reacts to correct/incorrect answers and celebrates quiz completion.
+- Fixed shared quiz state: each new question resets the answer lock, so subsequent questions in Deutsch, Englisch and Physik accept answers normally.
+- The mascot is an original character inspired by the general pixel-art companion idea; it is not a copy of Claude Code's Clawd character or artwork.
+
+Hinweis: XP und Fortschritt bleiben lokal im Browser.
