@@ -1,5 +1,5 @@
 {
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "maintenanceMessage": "Wir verbessern gerade EMS Learning. Währenddessen kannst du ein kleines Spiel spielen.",
   "subjects": {
     "deutsch": {
