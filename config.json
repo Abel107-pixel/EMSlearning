@@ -1,0 +1,24 @@
+{
+  "maintenanceMode": false,
+  "maintenanceMessage": "Wir verbessern gerade EMS Learning. Währenddessen kannst du ein kleines Spiel spielen.",
+  "subjects": {
+    "deutsch": {
+      "active": false,
+      "updated": false,
+      "title": "Deutsch",
+      "testDate": ""
+    },
+    "englisch": {
+      "active": true,
+      "updated": true,
+      "title": "Englisch",
+      "testDate": ""
+    },
+    "physik": {
+      "active": true,
+      "updated": true,
+      "title": "Physik",
+      "testDate": "2026-11-24"
+    }
+  }
+}
